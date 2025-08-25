@@ -1,4 +1,4 @@
-# tic_tac_toe
+# tic_tac_toe (check master branch for all code)
 Tic tac toe game with flutter
 I created tic tac toe game and I really enjoy when i made that project.
 flutter version is:
